@@ -1,4 +1,13 @@
 
+body{
+    /* display: flex; */
+    width: 500px;
+    margin: 0 auto; 
+    text-align: center;
+    background-color: rgb(180, 179, 179);
+}
+
+
 
 h1{
     font-size: 25px;
@@ -13,22 +22,20 @@ h2{
 header{
     text-align: center;
     width: 500px;
-    text-align: center;
 
 
 }
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    padding: 5vh;
+}
+
 .fa-paper-plane:before{
     margin-right: -10em;
 }
-
-.timeLine{
-    /* display: flex; */
-    width: 500px;
-    /* margin: 0 ;  */
-    text-align: center;
-    background-color: rgb(180, 179, 179);
-}
-
 
 
 
