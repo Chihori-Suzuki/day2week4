@@ -16,10 +16,10 @@ img{
 header{
     /* justify-content: flex-start; */
     text-align: center;
-    width: 100%;
+    width: 80%;
     border: solid 1px;
     border-style: groove;
-    background-color: rgb(247, 199, 144);
+    /* background-color: rgb(247, 199, 144); */
 
 
 }
@@ -30,12 +30,13 @@ header{
 .timeLine{
     /* justify-content: flex-start; */
     text-align: center;
-    width: 100%;
+    width: 80%;
     border: solid 1px;
     border-style: groove;
-    background-color: rgb(170, 227, 250);
+    /* background-color: rgb(170, 227, 250); */
 
 }
+
 
 
 .fa-smile-wink{
@@ -45,3 +46,11 @@ header{
        
 }
 
+
+.icon{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    margin-left: 10%;
+
+}
