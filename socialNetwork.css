@@ -1,24 +1,25 @@
+
+
 h1{
     font-size: 25px;
 }
 h2{
     font-size: 20px;
-    /* text-align: left; */
-    margin-left: -20em;
+    /* text-align: left;
+    margin-left: -20em; */
 
 }
 
-img{
+/* img{
 
     width: 480px;
     height: 480px;
-}
+} */
 header{
     /* justify-content: flex-start; */
     text-align: center;
-    width: 80%;
-    border: solid 1px;
-    border-style: groove;
+    width: 500px;
+    text-align: center;
     /* background-color: rgb(247, 199, 144); */
 
 
@@ -28,13 +29,11 @@ header{
 }
 
 .timeLine{
-    /* justify-content: flex-start; */
+    /* display: flex; */
+    width: 500px;
+    /* margin: 0 ;  */
     text-align: center;
-    width: 80%;
-    border: solid 1px;
-    border-style: groove;
-    /* background-color: rgb(170, 227, 250); */
-
+    background-color: rgb(180, 179, 179);
 }
 
 
@@ -51,6 +50,16 @@ header{
     display: flex;
     justify-content: flex-start;
     flex-direction: row;
-    margin-left: 10%;
+    margin-left: 3%;
 
+}
+.Name{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    margin-left: 3%;
+
+}
+.border_radius {
+    border-radius: 20px/20px;
 }
