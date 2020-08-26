@@ -10,17 +10,10 @@ h2{
 
 }
 
-/* img{
-
-    width: 480px;
-    height: 480px;
-} */
 header{
-    /* justify-content: flex-start; */
     text-align: center;
     width: 500px;
     text-align: center;
-    /* background-color: rgb(247, 199, 144); */
 
 
 }
@@ -37,13 +30,6 @@ header{
 }
 
 
-
-.fa-smile-wink{
-    font-size: 2rem;
-    margin-left: 10%;
-    /* margin-right: 3%; */
-       
-}
 
 
 .icon{
