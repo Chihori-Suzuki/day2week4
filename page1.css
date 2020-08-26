@@ -22,6 +22,7 @@ h2{
 header{
     text-align: center;
     width: 500px;
+    padding: 10px;
 
 
 }
@@ -38,21 +39,23 @@ header{
 }
 
 
-
 .icon{
     display: flex;
     justify-content: flex-start;
     flex-direction: row;
     margin-left: 3%;
-
 }
 .Name{
     display: flex;
     justify-content: flex-start;
     flex-direction: row;
-    margin-left: 3%;
 
 }
+
 .border_radius {
+    display: flex;
     border-radius: 20px/20px;
+    margin-top: 1%;
+    margin-left: 1%;
+    margin-right: 3%;
 }
